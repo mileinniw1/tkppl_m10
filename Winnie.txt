@@ -1,3 +1,5 @@
 191110775 - Winnie Quinn Linardi
 
 Menambah cabang fitur -a yang induk cabangnya adalah develop
+
+sekarang dicabang rilis akan merge ke cabang master
